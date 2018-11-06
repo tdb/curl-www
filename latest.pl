@@ -14,6 +14,8 @@ my %mirrors=(
 
     # Marty Anstey runs:
     'https://curl.mirror.anstey.ca/' => 'Canada (Vancouver)',
+    
+    'http://www.mirrorservice.org/sites/curl.haxx.se/download/' => 'United Kingdom (Canterbury)',
     );
 
 sub present {
